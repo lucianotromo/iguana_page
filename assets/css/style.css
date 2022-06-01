@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+     header{
+    display: flex;
+    justify-content: center;
+    font-family: 'Quicksand', sans-serif;
+    }
+h1{
+        padding: 20px;
+        font-size: 50px ;
+        
+    }
+main section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bigiguana{
+    width: 100%;
+}
+main div{
+    width:50% ;
+    margin:50px;
+    padding: 100px;
+    height: auto;
+}
+main p{
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    padding: 5rem;
+    
+}
+main img{
+    width: 500px;
+}
+
+.section1{
+    background-color: #1E1A13;
+    text-align: center;
+    height: 300px;
+}
+h2{
+    padding: 50px;
+    font-size: 2em;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-family: 'Quicksand', sans-serif;
+}
+.section2{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    
+}
+.iconos{
+    display: inline-block
+}
+i{
+    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
+article p{
+    font-size: 20px;
+}
+
+
+.iguanas{
+    width: 400px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+footer{
+    background-color: rgb(34, 19, 19);
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Raleway', sans-serif;
+
+}
